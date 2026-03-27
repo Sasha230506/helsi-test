@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Helsi.Api/Helsi.Api.csproj" />
+    <Project Path="src/Helsi.Application/Helsi.Application.csproj" />
+    <Project Path="src/Helsi.Domain/Helsi.Domain.csproj" />
+    <Project Path="src/Helsi.Infrastructure/Helsi.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Helsi.Tests/Helsi.Tests.csproj" />
+  </Folder>
+</Solution>
